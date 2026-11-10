@@ -2,7 +2,8 @@
 
 **Piezoelectric sensors for spacecraft and aerospace SHM applications**
 
-[![Patent](https://img.shields.io/badge/U.S._Provisional-63%2F775%2C901-green)]()
+[![Patent application](https://img.shields.io/badge/U.S._Provisional_App.-63%2F775%2C901-green)]()
+<!-- TODO: add verified Google Patents or USPTO public document URL if/when this provisional or a later nonprovisional is published. No public page was found as of 2026-11-10. -->
 [![Navy Award](https://img.shields.io/badge/U.S._Navy-Environmental_Science_Award-blue)]()
 [![Air Force](https://img.shields.io/badge/U.S._Air_Force-STEM_Recognition-blue)]()
 
@@ -38,7 +39,7 @@ Piezoelectric ultrasonic transducers generate and receive guided Lamb waves that
 
 ## Intellectual Property
 
-U.S. Provisional Patent No. 63/775,901 — *Inkjet-Printed Ultrasonic Sensor for Structural Health Monitoring*
+U.S. Provisional Patent Application No. 63/775,901 — *Inkjet-Printed Ultrasonic Sensor for Structural Health Monitoring*
 
 ## Tools & Technologies
 
@@ -53,4 +54,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-**Maximilian Kopp** — [maxkopptech.com](https://www.maxkopptech.com) | [ORCID](https://orcid.org/0009-0008-6431-8137)
+**Maximilian Kopp** — [maxkopp2007@gmail.com](mailto:maxkopp2007@gmail.com) | [maxkopptech.com](https://www.maxkopptech.com) | [ORCID](https://orcid.org/0009-0008-6431-8137) | [LinkedIn](https://www.linkedin.com/in/maxkopp)
