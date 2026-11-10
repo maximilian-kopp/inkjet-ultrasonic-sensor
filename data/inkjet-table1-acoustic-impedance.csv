@@ -1,0 +1,8 @@
+# Source: manuscript section IV, table of the acoustic impedance of common materials in aerospace applications.
+# These are reference values printed in the manuscript, not measurements from the printed sensors.
+material,density_kg_per_m3,acoustic_impedance_kg_per_m_s,notes
+Aluminum,2.7e3,1.59e7,
+Titanium alloy,4.5e3,4.23e7,
+Iron,7.9e3,4.50e7,
+Steel,7.9e3,4.53e7,
+Copper,8.9e3,4.18e7,

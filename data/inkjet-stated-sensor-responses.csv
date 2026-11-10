@@ -1,0 +1,9 @@
+# Source: manuscript section V Evaluation of printed ultrasonic sensors, and Figure 8-9 captions.
+# Voltage ranges and FFT peak frequencies as stated in the text. Spectra themselves were not digitized.
+quantity,value,unit,section,notes
+triboelectric_voltage_amplitude_range,0.1 to 1.7,V,V Evaluation,"for triboelectric sensors, the amplitudes are typically among 0.1 to 1.7V"
+triboelectric_larger_response_pairs,PDMS/PI and PDMS/PET,,V Evaluation,larger voltage response than PET/PI
+PVDF_piezoelectric_maximum_voltage,approximately 0.25,V,V Evaluation,the piezoelectric sensor based on PVDF shows a maximum voltage output of ~0.25 V
+PDMS_PI_FFT_peak,58.0,kHz,V Evaluation / Fig. 9,The PDMS/PI triboelectric sensor shows a peak at 58.0 kHz
+PVDF_FFT_peak,59.9,kHz,V Evaluation / Fig. 9,The PVDF piezoelectric sensor shows a frequency of 59.9 kHz
+source_frequency,60,kHz,V Evaluation,predominance of the 60 kHz contribution due to the input source

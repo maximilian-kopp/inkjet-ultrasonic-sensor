@@ -1,0 +1,7 @@
+# Source: manuscript TABLE 2: COMPARISON OF STRUCTURAL HEALTH MONITORING (SHM) SENSOR TYPES.
+# Qualitative comparison as printed; not a table of measured values from this work.
+sensor_type,sensitivity,cost,ease_of_installation,scalability,defect_localization_accuracy
+Vibration-Based Methods Sensors,Moderate,Moderate,Moderate,Moderate,Low
+Fiber Optic Sensors,High,High,Complex,Low,Moderate
+Ultrasonic sensors,High,High,Complex,Low,Moderate
+Printable Piezoelectric Sensor,High,Low,Easy,High,High

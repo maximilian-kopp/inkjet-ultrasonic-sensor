@@ -1,0 +1,6 @@
+# Source: manuscript section VI, first plate attempt (prose immediately before Figure 12), not Table 4.
+# Source (0, 0), Sensor1 (-6, -4), Sensor2 (6, -4), in a coordinate system with the origin at the center of the longer edge of an 8 x 12 in plate.
+# The manuscript states that substituting dt1=80.2 us, dt2=13.9 us, dt3=13.9 us, and S1=S2=7.2 in yields Xd=-0.02 in, Yd=-4.01 in, compared with an actual value of Xd=0 in, Yd=-4 in, a measurement error of only 0.3%.
+# The explicit delay equations are printed as images and were not retyped into this file.
+source_coord_in,sensor1_coord_in,sensor2_coord_in,delta_t1_us,delta_t2_us,delta_t3_us,S1_S2_in,speed_of_sound_m_s,stated_Xd_in,stated_Yd_in,actual_Xd_in,actual_Yd_in,stated_error
+"(0, 0)","(-6, -4)","(6, -4)",80.2,13.9,13.9,7.2,5000,-0.02,-4.01,0,-4,0.3%

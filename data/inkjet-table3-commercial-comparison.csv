@@ -1,0 +1,9 @@
+# Source: manuscript TABLE 3. A COMPARASION BETWEEN ULTRASONIC SENSORS (in section V; the surrounding prose also refers to it as Table 2).
+# Size, weight, and price as printed. This work is the author's printed sensor array.
+brand_model,size_in,weight_lb,scale,price_usd
+GE SEB4-EN,0.9,0.5,Single sensor,900
+Philips L12-4,1.5,0.6,Single sensor,1300
+Siemens 9L4,1.5,0.55,Single sensor,1100
+Toshiba PLT-1204BT,2,0.58,Single sensor,1250
+Hitachi L54,1.5,0.52,Single sensor,1400
+This work,0.4,0.005,Sensor array,0.1
