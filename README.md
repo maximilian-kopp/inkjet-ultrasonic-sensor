@@ -27,7 +27,7 @@ Table 4 of the manuscript lists three further trials (coordinates in inches, del
 | 2 | (6, 0) | 71.9 | (0, −8) | 5.33 | (6, −4) | 25.8 | 0.01 | 4.04 | 1.0% |
 | 3 | (6, 0) | 72.2 | (−6, −8) | 0.08 | (6, −4) | 26.1 | −0.03 | −4.05 | 1.3% |
 
-The manuscript text also describes the relative error as about 1% and as below 1%. The printed Table 4 errors are 0.5%, 1.0%, and 1.3%.
+The manuscript text also describes the relative error as about 1% and as ~1%. The printed Table 4 errors are 0.5%, 1.0%, and 1.3%.
 
 ### Sensor responses and comparison (§V)
 
@@ -44,7 +44,7 @@ Table 3 lists commercial ultrasonic probes at 0.9–2 in, 0.5–0.6 lb, and $900
 
 A 55-gallon tank (23 in diameter, 34 in height) was also tested. The manuscript reports a measured defect position of (θ = 0.043, Y = 0.5 in) versus an actual site of (θ = 0, Y = 0.5 in).
 
-The manuscript abstract states a sub-1% defect localization error and that the printed sensors outperform commercial ultrasonic sensors by 38% in sensitivity. The conclusion repeats approximately 38% higher sensitivity compared with commercial ultrasonic or triboelectric sensors, and sub-1% localization accuracy. Fabrication is by inkjet printing (Epson R230; Mitsubishi Paper Mills silver nanoparticle ink) on polymer substrates including PVDF.
+The manuscript abstract states approximately 1% localization error and that the printed sensors outperform commercial ultrasonic sensors by 38% in sensitivity. The conclusion repeats approximately 38% higher sensitivity compared with commercial ultrasonic or triboelectric sensors, and approximately 1% localization error. Fabrication is by inkjet printing (Epson R230; Mitsubishi Paper Mills silver nanoparticle ink) on polymer substrates including PVDF.
 
 ### Simulation (§V.A)
 
@@ -69,7 +69,7 @@ Piezoelectric ultrasonic transducers generate and receive guided Lamb waves that
 
 ## Figures
 
-Photographs and figures below are from [maxkopptech.com/space-monitoring](https://maxkopptech.com/space-monitoring/) unless noted. Captions describe only what is visible. Concept stills are labeled as illustrations. The 200 g plot is a printed pressure-sensor trace as labeled on the figure; it is not a plot of the sub-1% localization or 38% sensitivity figures stated above.
+Photographs and figures below are from [maxkopptech.com/space-monitoring](https://maxkopptech.com/space-monitoring/) unless noted. Captions describe only what is visible. Concept stills are labeled as illustrations. The 200 g plot is a printed pressure-sensor trace as labeled on the figure; it is not a plot of the ~1% localization or 38% sensitivity figures stated above.
 
 ![Printed sensors on a drum wall, wired to an oscilloscope](figures/lab-sensors-on-drum-wall.jpg)
 
@@ -93,7 +93,7 @@ Photographs and figures below are from [maxkopptech.com/space-monitoring](https:
 
 ![Printed pressure-sensor figure with 200 g resistance trace](figures/printed-pressure-sensor-response-200g.jpg)
 
-*Figure from the site labeled “Figure 2 Structure of the fully printed pressure sensor components,” with a resistance (kΩ) versus time (s) trace marked “200 g,” plus a render of a flexible sheet of gold electrode patterns. This figure shows a printed pressure-sensor response under 200 g; it does not itself display the sub-1% localization or 38% sensitivity figures.*
+*Figure from the site labeled “Figure 2 Structure of the fully printed pressure sensor components,” with a resistance (kΩ) versus time (s) trace marked “200 g,” plus a render of a flexible sheet of gold electrode patterns. This figure shows a printed pressure-sensor response under 200 g; it does not itself display the ~1% localization or 38% sensitivity figures.*
 
 ![Illustration of a proposed on-orbit printer kit](figures/concept-on-orbit-printer-kit-illustration.jpg)
 
