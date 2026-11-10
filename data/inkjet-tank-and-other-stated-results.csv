@@ -1,0 +1,13 @@
+# Source: manuscript section VI (tank experiment and later paragraphs) and the conclusion.
+# Caption delays under Figure 15 are printed in the manuscript prose immediately after that figure.
+quantity,value,unit,section,notes
+tank_measured_defect,"theta=0.043, Y=0.5 in",,VI In-situ,"The measured defect position (theta=0.043, Y=0.5 in) is very close to the actual site (theta=0, Y=0.5 in)"
+tank_actual_defect,"theta=0, Y=0.5 in",,VI In-situ,
+fig15_caption_delay_a,102,us,Fig. 15 following prose,A 102 us delay indicates early-stage defect propagation. Voltage traces were not digitized.
+fig15_caption_delay_b,120,us,Fig. 15 following prose,A 120 us delay represents moderate defect expansion
+fig15_caption_delay_c,128,us,Fig. 15 following prose,A 128 us delay shows advanced defect formation
+simulated_mission_smallest_defect,0.5,mm,VI Performance Degradation,"resolve defect features as small as 0.5 mm in diameter, with a localization accuracy of +/-5 cm in both aluminum alloy and carbon-composite substrates, under simulated mission conditions including thermal-vacuum chamber testing and random vibration exposure per NASA-STD-7001"
+simulated_mission_localization_accuracy,plus or minus 5,cm,VI Performance Degradation,
+abstract_localization,sub-1%,,Abstract and conclusion,Abstract: sub-1% defect localization error. Conclusion: sub-1% defect localization accuracy compared to commercial ultrasonic or triboelectric sensors. See also Table 4.
+abstract_sensitivity,38% higher than commercial ultrasonic sensors,,Abstract and conclusion,Abstract: outperform commercial ultrasonic sensors by 38% in sensitivity. Conclusion: approximately 38% higher sensitivity compared to commercial ultrasonic or triboelectric sensors. No table lists the two sensitivity values used to form this percentage.
+deployment_cost_reduction,99%,,VI On-Demand and conclusion,reduce deployment costs by 99% / nearly 99%. Table 3 lists this work at $0.1 versus commercial prices of $900-$1400.

@@ -1,0 +1,29 @@
+# Source: Kopp, M. B. Inkjet-Printed Piezoelectric Nanomaterial Arrays for Autonomous Structural Health Monitoring in Spacecraft and Deep-Space Exploration (manuscript).
+# Values are taken from the manuscript text. Section marks follow the manuscript headings.
+parameter,value,unit,section,notes
+simulation_tube_diameter,10,in,V.A / Fig. 1,"titanium alloy cylindrical tube, 10 in diameter, 31.5 in height"
+simulation_tube_height,31.5,in,V.A / Fig. 1,
+simulation_defect_diameter,0.2,in,V.A / Fig. 1,a hole with a diameter of 0.2 in
+simulation_mesh_resolution,0.005,in,Fig. 1 caption,meshed at 0.005 in resolution
+simulation_pulse_frequency,60,kHz,V.A / Fig. 1,"Gaussian-shape ultrasonic pulse, 60 kHz, duration 16.7 us"
+simulation_pulse_duration,16.7,us,V.A / Fig. 1,
+simulation_wavefront_time,175,us,V.A,"By approximately t = 175 us, the wavefront reaches the defective site"
+simulation_localization_window,plus or minus 0.02,in,V.A,Wavefront interference at t=175 us localized defects within +/-0.02 in
+printer,Epson R230,,V Inkjet printing,selected after reviewing literature [17-18]
+conductive_ink,silver nanoparticle ink from MITSUBISHI PAPER MILLS,,V Inkjet printing,
+high_end_printer_price_mentioned,over 40000,USD,V Inkjet printing,"literature inkjet sensors often depend on printers priced over $40,000; not a price of this work's printer"
+piezoelectric_dielectric,PVDF,,V Design,poly(vinylidene fluoride)
+triboelectric_substrates,"PE, PDMS, PS, PI",,V Design,"polyethylene, polydimethylsiloxane, polystyrene, polyimide"
+evaluation_frequency,60,kHz,V Evaluation,oscilloscope / ultrasonic excitation at 60 kHz
+evaluation_sensor_distance,0.5,in,V Evaluation,printed sensor placed on the aluminum plate at a distance of 0.5 in
+oscilloscope,HANTEK DOS1104,,V Evaluation / Fig. 8,spectrogram recorded by a HANTEK DOS1104 oscilloscope
+plate_size,8 x 12,in^2,VI,aluminum plate with a size of 8*12 in2 and a thickness of 1.5 in
+plate_thickness,1.5,in,VI,
+plate_source_frequency,60,kHz,VI,ultrasonic oscillator working at 60 kHz
+plate_pulse_duration,33,us,VI,short ultrasonic pulse with duration of 33 us
+speed_of_sound_aluminum,5000,m/s,VI,u=5000 m/s is the speed of sound in aluminum
+tank_type,55-gallon propane tank,,VI In-situ,cylindrical 55-gallon propane tank
+tank_diameter,23,in,VI In-situ,23 in in diameter and 34 in in height
+tank_height,34,in,VI In-situ,
+intro_control_plate,3-by-3-foot laser-cut metal sheet,,I Introduction,accuracy assessed using a three-by-three-foot laser-cut metal sheet; the results section instead reports an 8 x 12 in plate
+ultrasonic_frequency_range_mentioned,20 kHz to 1 MHz,,I Introduction,"general description of ultrasonic testing, not a measured bandwidth of this device"

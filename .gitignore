@@ -4,7 +4,7 @@ __pycache__/
 .env
 .venv/
 *.csv
-data/
+!data/*.csv
 .DS_Store
 Thumbs.db
 .vscode/
